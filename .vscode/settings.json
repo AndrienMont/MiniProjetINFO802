@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f5b454ed-5053-40ce-a530-9032ecfbdd20/resourceGroups/electrip-info/providers/Microsoft.Web/sites/electrip",
+    "appService.deploySubpath": "."
+}
